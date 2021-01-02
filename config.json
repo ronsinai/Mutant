@@ -1,0 +1,22 @@
+{
+  "gbdlm31": {
+    "imagingType": "MRI",
+    "bodyPart": "abdomen",
+    "sex": "M"
+  },
+  "us323f": {
+    "imagingType": "US",
+    "bodyPart": "fracture",
+    "sex": "F"
+  },
+  "ctumm": {
+    "imagingType": "CT",
+    "bodyPart": "tummy",
+    "sex": "M"
+  },
+  "ankfx": {
+    "imagingType": "X-RAYS",
+    "bodyPart": "ankle",
+    "sex": "F"
+  }
+}
